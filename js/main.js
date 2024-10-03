@@ -25,9 +25,3 @@ links.forEach(link => {
     event.target.classList.add('fst-italic');
   });
 });
-
-
-
-// link.addEventListener('click', (event) => {
-//   event.target.classList.add('fst-italic');
-// });
